@@ -1,0 +1,28 @@
+body {
+background-color: cyan;
+}
+
+h1 {
+color: darkred;
+      text-align: center;
+font-size: 30px;
+font-weight: bold;
+}
+
+table, th, td {
+margin-left: auto;
+margin-right: auto;
+border: 3px solid green;
+padding: 12px;
+text-align: left;
+
+  th 
+    color: red;
+   th.first
+    color: green;
+   th.second
+    text-align: center;
+
+
+
+
